@@ -1,0 +1,11 @@
+Corey's Computers
+---
+Inventory
+- List of items
+	- Filtering options based on Product type
+	- Filtering options based on Price
+	- Filtering options based on Brand
+	- Filtering options based on Star Rating
+
+Checkout Page
+- SubTotal + Tax + Shipping Calculation Based on State
