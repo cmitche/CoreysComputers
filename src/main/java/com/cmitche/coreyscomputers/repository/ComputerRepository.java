@@ -1,4 +1,7 @@
 package com.cmitche.coreyscomputers.repository;
 
-public class ComputerRepository {
+import com.cmitche.coreyscomputers.vo.Computer;
+import org.springframework.data.repository.CrudRepository;
+
+public interface ComputerRepository extends CrudRepository<Computer, Long> {
 }
